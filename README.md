@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">Since childhood, I've always been an enthusiastic builder. At eight I was assembling computers; as a teenager I was automating calculations with Excel macros for D&D; then I built videogames and at my last job I was promoted to Lead Developer building mobile and web applications. Recently I upskilled myself to become a true Full Stack developer that can make apps on his own, understanding both frontend and backend. And also AI happened! So I've also integrated AI-driven workflows into my process, turning me into a much better and more efficient developer than when I started doing this.<br><br>With 7 years of coding experience, including both professional roles and projects, I’m now a Full Stack developer using Next.js for the web and React Native for mobile apps. I’ve always worked at very small startups that couldn't offer job stability. Now I'm ready to step up my career in a long-term job to ditch job hopping for good. This move will allow me to contribute to larger software solutions and accelerate my professional growth in a better company.<br><br>Transforming ideas into efficient and useful applications that make a difference is my calling 💫!<br><br>I'm actively seeking a long-term developer role at a company that values quality work and teamwork and embraces AI. If you're building amazing products and looking for a passionate developer, let's connect!</p>
+Since childhood, I've always been an enthusiastic builder. At eight I was assembling computers; as a teenager I was automating calculations with Excel macros for D&D; then I built videogames and at my last job **I was promoted to Lead Developer** building mobile and web applications. Recently I upskilled myself to become a true Full Stack developer that can make apps on his own, understanding both frontend and backend. And also AI happened! So I've also integrated **AI-driven workflows** into my process, turning me into a much better and more efficient developer than when I started doing this.
+
+With **7 years of coding experience**, including both professional roles and projects, I’m now a **Full Stack developer** using Next.js for the web and React Native for mobile apps. I’ve always worked at very small startups that couldn't offer job stability. Now I'm ready to step up my career in a long-term job to ditch job hopping for good. This move will allow me to contribute to larger software solutions and accelerate my professional growth in a better company.
+
+**Transforming ideas into efficient and useful applications that make a difference is my calling** 💫!
+
+I'm actively seeking a long-term developer role at a company that values quality work and teamwork and embraces AI. If you're building amazing products and looking for a passionate developer, let's connect!
 
 ###
 
@@ -22,8 +28,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -64,9 +68,6 @@
   </a>
   <a href="https://x.com/irian_codes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discord://-/users/irian_94308" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:irian@irian.codes" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />

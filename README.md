@@ -6,13 +6,15 @@
 
 ###
 
-Since childhood, I've always been an enthusiastic builder. At eight I was assembling computers; as a teenager I was automating calculations with Excel macros for D&D; then I built videogames and at my last job **I was promoted to Lead Developer** building mobile and web applications. Recently I upskilled myself to become a true Full Stack developer that can make apps on his own, understanding both frontend and backend. And also AI happened! So I've also integrated **AI-driven workflows** into my process, turning me into a much better and more efficient developer than when I started doing this.
+With **7 years of full-time coding experience**, including both professional roles and projects, I’m now a Full Stack developer using **Next.js** for the web and **React Native** for mobile apps with my custom AI driven workflows.
 
-With **7 years of coding experience**, including both professional roles and projects, I’m now a **Full Stack developer** using Next.js for the web and React Native for mobile apps. I’ve always worked at very small startups that couldn't offer job stability. Now I'm ready to step up my career in a long-term job to ditch job hopping for good. This move will allow me to contribute to larger software solutions and accelerate my professional growth in a better company.
+**Transforming ideas into efficient and useful applications that make a difference is my calling 💫**
 
-**Transforming ideas into efficient and useful applications that make a difference is my calling** 💫!
+Since childhood, I've always been an enthusiastic builder. At eight I was assembling computers; as a teenager I was automating calculations with Excel macros for D&D; then I built VR experiences with Unity; at my last job I was promoted to Lead Developer; and recently I upskilled myself to become a true Full Stack developer that can make apps end to end on his own, understanding both frontend and backend. And also AI happened! So I've also integrated AI-driven workflows into my process, turning me into a much better and more efficient developer than when I started doing this.
 
-I'm actively seeking a long-term developer role at a company that values quality work and teamwork and embraces AI. If you're building amazing products and looking for a passionate developer, let's connect!
+I’ve always worked at very small startups that couldn't offer job stability. Now I'm ready to step up my career in a long-term job to ditch job hopping for good. This move will allow me to contribute to larger software solutions and continue my professional growth in a better company.
+
+I'm actively seeking a long-term developer role at a company that values quality work and embraces teamwork and AI. If you're building amazing products and looking for a passionate developer, **let's talk!**
 
 ###
 
